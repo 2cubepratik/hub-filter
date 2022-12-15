@@ -1,0 +1,11 @@
+.card-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-wrapper  .card {
+    width: 100%;
+    padding: 15px;
+    margin: 15px;
+    background: gainsboro;
+}
